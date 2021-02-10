@@ -1,24 +1,44 @@
-# README
+# Rails Members Only!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this project, We built an exclusive clubhouse where  members can write anonymous posts. Inside the clubhouse, members can see who the author of a post is but, outside, they can only see the story and wonder who wrote it.
 
-Things you may want to cover:
+## Built with
 
-* Ruby version
+- Rails
+- Bootstrap
+- Html
+- Sass
 
-* System dependencies
+## Installing
 
-* Configuration
+- Clone the repo `https://github.com/Murodjon000/members-only.git`
+- `cd` into the directory
+- Run `bundle install`
+- Run `rails db:create db:migrate` (optional)
+- Run `rails s`
+- Go to `localhost:3000`
 
-* Database creation
+## Authors
 
-* Database initialization
+👤 **Murodjon Tursunpulatov**
 
-* How to run the test suite
+- Github: [@murodjon000](https://github.com/murodjon000)
+- Twitter: [@MurodjonTursun5](https://twitter.com/MurodjonTursun5)
+- Linkedin: [@Murodjon Tursunpulatov](https://www.linkedin.com/in/murodjon-tursunpulatov-5189481b3/)
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Abigael Nyangasi**
+- Github: [@IjayAbby](https://github.com/IjayAbby)
+- Twitter: [@Ijay_js](https://twitter.com/Ijay_js)
+- Linkedin: [linkedin Abigael Nyangasi](https://www.linkedin.com/in/ijayabby4/)
 
-* Deployment instructions
+## Contributing
 
-* ...
+- Fork the project
+- Create your feature branch `git checkout -b new-feature`
+- Commit your changes `git commit -m 'New feature'`
+- Push it `git push -u origin new-feature`
+- Open a pull request using this branch
+
+## License
+
+[MIT](https://github.com/Murodjon000/newsweek-clone/blob/master/LICENSE) licensed software.
