@@ -1,6 +1,8 @@
-# Rails Members Only!
+# Project:Members only
 
 In this project, We built an exclusive clubhouse where  members can write anonymous posts. Inside the clubhouse, members can see who the author of a post is but, outside, they can only see the story and wonder who wrote it.
+
+![Screenshot from 2021-02-10 16-16-56](https://user-images.githubusercontent.com/43843720/107537884-71b72980-6bd4-11eb-9a3f-b6ed1f84cfc3.png)
 
 ## Built with
 
